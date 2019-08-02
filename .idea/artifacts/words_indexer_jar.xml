@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="words.indexer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/words_indexer_jar</output-path>
+    <root id="root">
+      <element id="archive" name="words.indexer.jar">
+        <element id="module-output" name="words.indexer" />
+      </element>
+    </root>
+  </artifact>
+</component>
